@@ -1,0 +1,8 @@
+Solution:
+    1. Pick and empty cell
+    2. Try all solutions
+    3. Find one that works
+    4. Repeat
+    5. Backtrack
+        a. As soon as we get to a point that we cant get any solution we backtrack
+BackTracking is a much faster solution ot this problem
